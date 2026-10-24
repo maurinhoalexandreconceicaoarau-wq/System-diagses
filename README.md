@@ -24,3 +24,5 @@ Admin dapat mengelola gejala, bobot, penyakit, solusi, dan aturan. Pengguna hany
 Setiap konsultasi disimpan di tabel `consultation_history` bersama pengguna, gejala pilihan, hasil, skor, dan waktu. Pengguna dapat melihat histori miliknya; admin dapat melihat histori seluruh pengguna. Dashboard masing-masing menampilkan ringkasan dan grafik konsultasi.
 
 Tabel lama `symptoms` dan `diseases` dipertahankan sebagai kompatibilitas database. Aplikasi membaca dan mengelola data konsultasi melalui tabel sederhana `sintoma` dan `problema`.
+# System-diagses
+This system create by Maurinho A. C. Araujo/ https://www.instagram.com/orson_635?xtok=MTN6N3N2c2tmbmNyMw%3D%3D&amp;utm_source=qr

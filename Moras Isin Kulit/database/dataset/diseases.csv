@@ -1,0 +1,21 @@
+disease_id,naran_moras,deskrisaun,severidade,transmite,fonte
+D001,Jerawat,"Moras kulit ne'ebé halo komedo, bintik no jerawat, liu-liu iha oin, hirus no kotuk.",Kiik,Lae,American Academy of Dermatology
+D002,Eksima Atópiku,"Kondisaun kulit ne'ebé halo kulit maran, katar no inflamadu. Kondisaun ne'e bele mosu dala barak.",Médiu,Lae,American Academy of Dermatology
+D003,Dermatite Kontaktu,"Inflamasaun iha kulit ne'ebé mosu bainhira kulit kona ho buat ruma ne'ebé halo irritasaun ka reasaun alérjika.",Médiu,Lae,American Academy of Dermatology
+D004,Dermatite Seborreika,"Kondisaun kulit ne'ebé halo kulit mean, mina no iha eskama, liu-liu iha kulit ulun, oin ka fatin ne'ebé iha mina barak.",Kiik,Lae,American Academy of Dermatology
+D005,Psoríase,"Moras kulit kroniku ne'ebé halo mancha mean no eskama iha kulit tanba inflamasaun.",Médiu,Lae,American Academy of Dermatology
+D006,Rosásea,"Kondisaun kulit ne'ebé normalmente halo kulit iha oin sai mean no bele mosu bintik kiik ka ran-fuan kiik haree klaru.",Médiu,Lae,American Academy of Dermatology
+D007,Urtikária,"Reasaun iha kulit ne'ebé halo bultu ka inchaun kiik ne'ebé katar no bele mosu no lakon iha tempu badak.",Médiu,Lae,American Academy of Dermatology
+D008,Sarna,"Moras kulit kontajiozu ne'ebé akontese tanba kutu kiik iha kulit no normalmente halo katar maka'as liu-liu iha kalan.",Médiu,Sin,Centers for Disease Control and Prevention
+D009,Kurap iha isin,"Infesaun fungo iha kulit ne'ebé normalmente halo rash ho forma roda ka anel no bele halo katar no eskama.",Médiu,Sin,Centers for Disease Control and Prevention
+D010,Kutu Bee,"Infesaun fungo ne'ebé ataka kulit ain no normalmente halo katar, kulit nakfera, kulit sai no sente sunu.",Médiu,Sin,Centers for Disease Control and Prevention
+D011,Impetigu,"Infesaun bakteria iha kulit ne'ebé halo ferida ka bolha ne'ebé bele nakfera no forma krosa kinur.",Médiu,Sin,Centers for Disease Control and Prevention
+D012,Folikulite,"Inflamasaun ka infesaun iha parte ne'ebé fulun moris, ne'ebé bele halo bultu kiik, mean, katar ka pus.",Kiik,Lae,American Academy of Dermatology
+D013,Herpes Zoster,"Infesaun virus ne'ebé mosu fali husi virus varisela-zoster no halo moras no bolha iha normalmente sorin ida deit husi isin.",Médiu,Sin,Centers for Disease Control and Prevention
+D014,Herpes Simpleks,"Infesaun virus ne'ebé bele halo bolha ka ferida ne'ebé moras iha kulit ka besik ibun no bele mosu fali.",Médiu,Sin,Centers for Disease Control and Prevention
+D015,Kutil,"Kresimentu kiik iha kulit ne'ebé mosu tanba infesaun virus HPV.",Kiik,Sin,American Academy of Dermatology
+D016,Molluscum Contagiosum,"Infesaun virus iha kulit ne'ebé halo bultu kiik, forma hanesan bola no iha parte klaran ne'ebé tama kiik ba laran.",Kiik,Sin,Centers for Disease Control and Prevention
+D017,Vitiligu,"Kondisaun kulit ne'ebé halo kor kulit lakon no mosu mancha mutin iha parte balun husi isin.",Médiu,Lae,American Academy of Dermatology
+D018,Alopesia Areata,"Kondisaun ne'ebé halo fulun monu derepente no bele halo fatin botak ho forma roda ka forma la regular.",Médiu,Lae,American Academy of Dermatology
+D019,Hidradenite Supurativa,"Kondisaun kulit kroniku ne'ebé halo bultu ka ferida ne'ebé moras, liu-liu iha ketiak no virilha.",Médiu,Lae,American Academy of Dermatology
+D020,Selulite,"Infesaun bakteria iha parte klean husi kulit ne'ebé bele halo kulit mean, incha, manas no moras.",Aas,Lae,National Health Service

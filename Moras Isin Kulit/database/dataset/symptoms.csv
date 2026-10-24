@@ -1,0 +1,61 @@
+symptom_id,kode_sintoma,naran_sintoma,deskrisaun,area_kulit
+S001,G01,Kulit mean,"Kulit muda nia kor sai mean.",Oin ka isin
+S002,G02,Kulit Katar,"Sente hakarak Koi kulit tanba Katar.",Oin ka isin
+S003,G03,Katar maka'as,"Katar forte ne'ebé halo ema la sente konfortavel.",Oin ka isin
+S004,G04,Katar maka'as iha kalan,"Katar aumenta ka sai maka'as liu iha tempu kalan.",Oin ka isin
+S005,G05,Kulit maran,"Kulit lakon nia umidade no sai maran.",Oin ka isin
+S006,G06,Kulit nakfera,"Kulit nakfera ka iha parte kiik ne'ebé nakfera.",Oin ka isin
+S007,G07,Kulit eskama,"Kulit sai eskama ka parte kiik husi kulit monu.",Oin ka isin
+S008,G08,Bintik kiik,"Mosu bintik kiik iha leten kulit.",Oin ka isin
+S009,G09,Bintik mean,"Mosu bintik ho kor mean iha kulit.",Oin ka isin
+S010,G10,Jerawat,"Mosu Berbunhus ka jerawat iha kulit.",Oin
+S011,G11,Komedo,"Mosu pontu metan ka mutin iha kulit.",Oin
+S012,G12,Kulit mina,"Kulit produz mina barak liu husi normal.",Oin
+S013,G13,Mancha mean,"Iha parte kulit ne'ebé nia kor sai mean no klaru.",Oin ka isin
+S014,G14,Mancha mutin,"Iha parte kulit ne'ebé nia kor lakon no sai mutin.",Oin ka isin
+S015,G15,Berbunhus iha kulit,"Mosu Berbunhus ka inchaun kiik iha kulit.",Oin ka isin
+S016,G16,Berbunhus ne'ebé Katar,"Mosu Berbunhus iha kulit no akompaña ho Katar.",Oin ka isin
+S017,G17,Kulit incha,"Parte kulit aumenta nia volume ka incha.",Oin ka isin
+S018,G18,Kulit manas,"Parte kulit sente manas bainhira kompara ho parte seluk.",Oin ka isin
+S019,G19,Kulit moras,"Parte kulit sente moras ka dor.",Oin ka isin
+S020,G20,Dor maka'as,"Parte kulit sente dor forte.",Oin ka isin
+S021,G21,Bolha iha kulit,"Mosu bolha kiik ka boot ne'ebé bele iha bee laran.",Oin ka isin
+S022,G22,Bolha moras,"Mosu bolha iha kulit ne'ebé akompaña ho dor.",Oin ka isin
+S023,G23,Ferida iha kulit,"Mosu ferida ka parte kulit ne'ebé estraga.",Oin ka isin
+S024,G24,Ferida nakfera,"Ferida iha kulit nakfera ka sai ran/bee.",Oin ka isin
+S025,G25,Pus,"Iha likidu mutin ka kinur ne'ebé sai husi ferida ka Berbunhus.",Oin ka isin
+S026,G26,Krosa kinur,"Fatin ferida taka ho krosa ho kor kinur ka mel.",Oin ka isin
+S027,G27,Rash ho forma anel,"Ruam iha kulit ho forma roda ka anel.",Isin
+S028,G28,Ruam iha kulit,"Mosu mudansa ka erupsaun iha superficie kulit.",Oin ka isin
+S029,G29,Kulit naklekar,"Kulit naklekar ka sai parte kiik.",Oin ka isin
+S030,G30,Sente sunu iha kulit,"Kulit sente sunu ka hanesan manas.",Oin ka isin
+S031,G31,Linia kiik iha kulit,"Iha linia kiik iha superficie kulit.",Liman ka isin
+S032,G32,Katar entre liman-fuan,"Katar mosu iha espasu entre liman-fuan.",Liman
+S033,G33,Kulit mean iha ketiak,"Kulit iha ketiak sai mean.",Ketiak
+S034,G34,Berbunhus iha ketiak,"Mosu Berbunhus iha ketiak.",Ketiak
+S035,G35,Berbunhus moras iha ketiak,"Mosu Berbunhus iha ketiak ne'ebé sente moras.",Ketiak
+S036,G36,Ferida iha ketiak,"Mosu ferida iha parte ketiak.",Ketiak
+S037,G37,Berbunhus iha virilha,"Mosu Berbunhus iha area virilha.",Virilha
+S038,G38,Berbunhus moras iha virilha,"Mosu Berbunhus iha virilha no sente moras.",Virilha
+S039,G39,Kulit ain nakfera,"Kulit ain nakfera ka naklekar.",Ain
+S040,G40,Katar iha ain,"Ain sente Katar.",Ain
+S041,G41,Kulit ain eskama,"Kulit ain sai eskama.",Ain
+S042,G42,Kulit iha liman-fuan nakfera,"Kulit entre liman-fuan nakfera.",Liman
+S043,G43,Fulun monu,"Fulun monu liu husi normal.",Ulun
+S044,G44,Fatin botak,"Iha area iha ulun ne'ebé fulun lakon.",Ulun
+S045,G45,Fulun monu ho forma roda,"Fulun monu no forma area botak hanesan roda.",Ulun
+S046,G46,Kulit ulun eskama,"Kulit ulun iha eskama ka flakes.",Ulun
+S047,G47,Kulit ulun Katar,"Kulit ulun sente Katar.",Ulun
+S048,G48,Kulit sai mina iha ulun,"Kulit ulun produz mina barak.",Ulun
+S049,G49,Ran-fuan haree klaru,"Ran-fuan kiik iha kulit haree klaru liu.",Oin
+S050,G50,Mian iha oin,"Oin sai mean ka kor muda ba mean.",Oin
+S051,G51,Kulit sai mutin iha parte balun,"Kor natural husi kulit lakon iha parte balun.",Oin ka isin
+S052,G52,Katar iha kalan,"Katar aumenta iha tempu kalan.",Oin ka isin
+S053,G53,Ruam iha sorin ida,"Ruam ka bolha mosu liu-liu iha sorin ida deit husi isin.",Isin
+S054,G54,Dor iha sorin ida,"Dor sente liu-liu iha sorin ida husi isin.",Isin
+S055,G55,Kulit sensivel,"Kulit fasil atu irritadu bainhira kona ho buat balun.",Oin ka isin
+S056,G56,Kulit irritadu,"Kulit sai irritadu depois de kona ho substansia ruma.",Oin ka isin
+S057,G57,Bintik ho forma roda,"Bintik ka ruam forma hanesan roda.",Isin
+S058,G58,Kulit isin mean no manas,"Kulit sai mean no sente manas.",Isin
+S059,G59,Incha iha kulit,"Parte kulit aumenta no incha.",Oin ka isin
+S060,G60,Febre hamutuk ho problema kulit,"Sente temperatura isin aas hamutuk ho mudansa iha kulit.",Isin
